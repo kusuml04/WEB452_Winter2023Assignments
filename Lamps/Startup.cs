@@ -34,6 +34,11 @@ namespace Lamps
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddDbContext<LampContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddDbContext<LampsContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("LampsContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
