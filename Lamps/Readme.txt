@@ -35,3 +35,10 @@ something like download microsoft.visualstudio.web.codegenerator      0916
 
 ****To solve this error i modify something in my Visual Studio Installer 
 Then try to scaffold again,   huuuuuu luckily successful this time .      10.00 ****
+
+Use the EF Core Migrations feature to create the database
+
+In the PMC, enter the following commands:
+
+Add-Migration InitialCreate             1030
+Update-Database
