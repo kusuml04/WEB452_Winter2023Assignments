@@ -53,4 +53,6 @@ After that Update my Program.cs file .
 
 Yeaahhh! Finally Test my data .   Hurraaah! successfuly got my Lamps properties.          0133
 
-thats it for today . Rest part will do next morning.    Pause Project  0135
+thats it for today . Rest part will continue next morning.    Pause Project  0135
+
+Start Project   Again at 1314
