@@ -55,4 +55,8 @@ Yeaahhh! Finally Test my data .   Hurraaah! successfuly got my Lamps properties.
 
 thats it for today . Rest part will continue next morning.    Pause Project  0135
 
-Start Project   Again at 1314
+******Start Project   Again at 1314   *****
+
+Add navigation bar named as Abous us and Lamps inside _Layout.cshtml  
+
+change the font style and add bpdy color on home page.
