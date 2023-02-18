@@ -30,7 +30,8 @@ register the databse context using statements Lamps.Data;
 using Microsoft.EntityFrameworkCore;
 
 Then I reached on Scaffold Page 
-oooooohh shitttt got an error  
+*****oooooohh shitttt got an error ***** 
+
 something like download microsoft.visualstudio.web.codegenerator      2116
 
 ****To solve this error i modify something in my Visual Studio Installer 
@@ -59,4 +60,15 @@ thats it for today . Rest part will continue next morning.    Pause Project  013
 
 Add navigation bar named as Abous us and Lamps inside _Layout.cshtml  
 
-change the font style and add bpdy color on home page.
+change the font style and add body color on home page.
+
+Start working in About Us page .
+
+facing an issue regarding image showing ****  same image same path but that image is woring on Home page 
+but am using the image with same path its not working on About Us page . Infact no image is not working on About us page
+Don't know why ****      1539
+
+Yeaahhhh! i fixed this 
+
+I add styling on my About Us.
+
