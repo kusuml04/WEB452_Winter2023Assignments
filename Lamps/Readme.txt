@@ -72,3 +72,7 @@ Yeaahhhh! i fixed this
 
 I add styling on my About Us.
 
+Update my AboutUS.cshtml and Index.cshtml.     2000
+
+*****Complete my project ****
+
